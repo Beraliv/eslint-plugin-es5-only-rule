@@ -4,7 +4,7 @@
   "description": "ESLint plugin that allows only es5 classes and methods",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Beraliv/eslint-plugin-es5-only-rule#readme",
   "devDependencies": {
+    "@typescript-eslint/parser": "^5.59.2",
     "@typescript-eslint/utils": "^5.59.2",
-    "typescript": "^5.0.4"
+    "typescript": "^5.0.4",
+    "vitest": "^0.31.0"
   }
 }
