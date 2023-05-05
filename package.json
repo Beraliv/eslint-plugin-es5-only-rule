@@ -1,0 +1,19 @@
+{
+  "name": "@beraliv/eslint-plugin-es5-only-rule",
+  "version": "0.0.1",
+  "description": "ESLint plugin that allows only es5 classes and methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beraliv/eslint-plugin-es5-only-rule.git"
+  },
+  "author": "Alexey Berezin <me@beraliv.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Beraliv/eslint-plugin-es5-only-rule/issues"
+  },
+  "homepage": "https://github.com/Beraliv/eslint-plugin-es5-only-rule#readme"
+}
