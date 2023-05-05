@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Beraliv/eslint-plugin-es5-only-rule/issues"
   },
-  "homepage": "https://github.com/Beraliv/eslint-plugin-es5-only-rule#readme"
+  "homepage": "https://github.com/Beraliv/eslint-plugin-es5-only-rule#readme",
+  "devDependencies": {
+    "@typescript-eslint/utils": "^5.59.2",
+    "typescript": "^5.0.4"
+  }
 }
